@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(aqua,white);
+    min-height: 100vh;
+}
+
+span {
+    color: gold;
+    background-color: black;
+}
+
+h1 {
+    color: gold;
+    background-color: black;
+    width: 400px;
+}
+
+input {
+    accent-color: gold;
+}
